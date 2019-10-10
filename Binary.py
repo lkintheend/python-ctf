@@ -10,5 +10,4 @@ ip = list(line)
 flag = None
 
 for char in ip:
-
-print(ip)
+    print chr(char)
